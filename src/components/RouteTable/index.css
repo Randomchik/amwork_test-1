@@ -1,0 +1,11 @@
+.highlighted-row{
+    background-color: rgb(107, 190, 245);
+}
+.highlighted-row:hover {
+    background-color: rgb(107, 190, 245);
+}
+
+.ant-table-cell-row-hover{
+    background-color: initial !important;
+    background: initial !important;
+}
